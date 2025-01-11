@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_calendar_event">
+    <title>What is a calendar event?</title>
+    <shortdesc>This section provides information about what an event is.</shortdesc>
+    <conbody>
+        <p>A <b>calendar event</b> is a digital entry used to organize and schedule activities or
+            reminders. Events typically include essential details to help manage time effectively.
+            Below are the key components of a calendar event:</p>
+        <ul id="ul_pmj_1dw_zdc">
+            <li><b>Start Time</b>: The exact time when the event begins (e.g., 10:00 AM).</li>
+            <li><b>End Time</b>: The exact time when the event concludes (e.g., 11:00 AM).</li>
+            <li><b>Event Title</b>: A short, descriptive name for the event (e.g., "Team Meeting" or
+                "Doctor's Appointment"). The title helps identify the event's purpose at a glance in
+                the calendar view.</li>
+            <li><b>Location</b>: Specifies where the event will take place (e.g., "Room 101," "Zoom
+                Link," or "Central Park"). Adding a location is especially useful for meetings,
+                appointments, or events with attendees, as it provides clarity about the venue.</li>
+        </ul>
+    </conbody>
+</concept>

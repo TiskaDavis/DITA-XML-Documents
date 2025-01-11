@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_change_the_calendar_view">
+    <title>How to Change the Calendar View</title>
+    <shortdesc>Here are the instructions on how to change the calendar view in the calendar
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_rgp_1yv_zdc">
+            <p>To successfully change the calendar view, you must know what different calendar views
+                mean.</p>
+            <p><b><u>Steps</u></b></p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>In the Google Calendar app, click the View Selector button in the top-right
+                    corner.</cmd>
+                <info>
+                    <p><image href="Images/Picture10.png" id="image_ewb_ryv_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click the view you want (e.g., day, week, month) from the drop-down menu.</cmd>
+                <info>
+                    <p><image href="Images/Picture11.png" id="image_or3_vyv_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>The calendar will refresh to display the selected view.</cmd>
+            </step>
+        </steps>
+        <result id="result_qvz_1zv_zdc">
+            <p>The calendar will display the selected view.</p>
+        </result>
+    </taskbody>
+</task>

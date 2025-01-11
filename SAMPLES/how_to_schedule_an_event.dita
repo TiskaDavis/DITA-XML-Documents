@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_schedule_an_event">
+    <title>How to Schedule an Event</title>
+    <shortdesc> Here are the instructions for scheduling an event in the calendar
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_cyf_4rt_ydc">
+            <p>To successfully schedule an event, you must know what a calendar event is. </p>
+            <p><u><b>Steps</b></u></p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Click the <b>"+" Create</b> button on the web version's left side.</cmd>
+                <info>
+                    <p>
+                        <fig id="fig_ggz_btt_ydc">
+                            <image href="Images/Picture1.png" id="image_igz_btt_ydc"/>
+                        </fig>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select <b>"Event"</b> from the drop-down menu.</cmd>
+                <info>
+                    <p><image href="Images/Picture2.png" id="image_shr_ntt_ydc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter the event details, such as the name of the event, the location of the
+                    event, and the start and end date/time.</cmd>
+                <info>
+                    <p><image href="Images/Picture3.png" id="image_oxg_rvt_ydc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <b>Save </b>to save the event.</cmd>
+                <info>
+                    <p><image href="Images/Picture4.png" id="image_d51_dwt_ydc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Check the calendar to confirm the event appears on the correct date and
+                    time.</cmd>
+                <info>
+                    <p><image href="Images/Picture5.png" id="image_h52_jwt_ydc"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_dvn_mwt_ydc">
+            <p>The event will be displayed on the calendar for the set time and date.</p>
+        </result>
+    </taskbody>
+</task>

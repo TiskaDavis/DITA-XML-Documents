@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_set_a_reminder_notification">
+    <title>How to Set a Reminder Notification</title>
+    <shortdesc>Here are the instructions on how to set a reminder notification in the calendar
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_hxn_11w_zdc">
+            <p>To successfully set a reminder notification, you must know what a reminder
+                notification is. </p>
+            <p><b><u>Steps</u></b></p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Create a new event or open an existing event for which you want to set up a
+                    reminder notification. </cmd>
+            </step>
+            <step>
+                <cmd>In the event details panel, look for the "<b>Notification</b>" section.</cmd>
+                <info>
+                    <p><image href="Images/Picture12.png" id="image_vkm_51w_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click the drop-down menu and select the type of notification you want to
+                    use.</cmd>
+                <info>
+                    <p><image href="Images/Picture13.png" id="image_xjx_x1w_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose the timing for the notification (e.g., 10 minutes, 1 hour, or 1 day
+                    before the event).</cmd>
+                <info>
+                    <p><image href="Images/Picture14.png" id="image_ahh_bbw_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>To add multiple reminders, click the "<b>Add notification</b>" button.</cmd>
+                <info>
+                    <p><image href="Images/Picture15.png" id="image_ll4_jbw_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <b>Save </b>to apply the changes.</cmd>
+                <info>
+                    <p><image href="Images/Picture16.png" id="image_s3d_4bw_zdc"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_ll5_rbw_zdc">
+            <p>The reminder notification will be sent at the chosen time using the selected
+                notification type.</p>
+        </result>
+    </taskbody>
+</task>

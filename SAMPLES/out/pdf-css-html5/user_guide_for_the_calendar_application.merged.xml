@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/user_guide_for_the_calendar_application.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">User Guide for the Calendar Application</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">User Guide for the Calendar Application</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Schedule Event"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e14">Schedule Event</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_calendar_event"><resourceid appid="what_is_a_calendar_event" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is a calendar event?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section provides information about what an event is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_schedule_an_event"><resourceid appid="how_to_schedule_an_event" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">How to Schedule an Event</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Here are the instructions for scheduling an event in the calendar         application.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Set Up Recurring Event"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e38">Set Up Recurring Event</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_reccuring_event"><resourceid appid="what_is_a_reccuring_event" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is a reccuring event?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section provides information about what a recurring event is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_set_up_a_recurring_event"><resourceid appid="how_to_set_up_a_recurring_event" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Set Up a Recurring Event</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here are the instructions on how to set up a recurring event in the calendar         application.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Change Calendar View"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e62">Change Calendar View</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_calendar_view"><resourceid appid="what_is_the_calendar_view" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">What is the calendar view?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section provides information about what a calendar view is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_change_the_calendar_view"><resourceid appid="how_to_change_the_calendar_view" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to Change the Calendar View</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here are the instructions on how to change the calendar view in the calendar         application.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Set Reminder Notification"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d105e86">Set Reminder Notification</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_a_reminder_notification"><resourceid appid="what_is_a_reminder_notification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">What is a reminder notification?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This section provides information about what a reminder notification is.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_set_a_reminder_notification"><resourceid appid="how_to_set_a_reminder_notification" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to Set a Reminder Notification</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here are the instructions on how to set a reminder notification in the calendar         application.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Schedule Event</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_a_calendar_event" oid="what_is_a_calendar_event" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a calendar event?</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section provides information about what an event is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">calendar event</b> is a digital entry used to organize and schedule activities or
+            reminders. Events typically include essential details to help manage time effectively.
+            Below are the key components of a calendar event:</p>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_pmj_1dw_zdc" nd:nd-id="ul_pmj_1dw_zdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Start Time</b>: The exact time when the event begins (e.g., 10:00 AM).</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">End Time</b>: The exact time when the event concludes (e.g., 11:00 AM).</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Event Title</b>: A short, descriptive name for the event (e.g., "Team Meeting" or
+                "Doctor's Appointment"). The title helps identify the event's purpose at a glance in
+                the calendar view.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Location</b>: Specifies where the event will take place (e.g., "Room 101," "Zoom
+                Link," or "Central Park"). Adding a location is especially useful for meetings,
+                appointments, or events with attendees, as it provides clarity about the venue.</li>
+        </ul>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="how_to_schedule_an_event" oid="how_to_schedule_an_event" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Schedule an Event</ph></title>
+    <shortdesc class="- topic/shortdesc "> Here are the instructions for scheduling an event in the calendar
+        application.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_cyf_4rt_ydc" nd:nd-id="prereq_cyf_4rt_ydc">
+            <p class="- topic/p ">To successfully schedule an event, you must know what a calendar event is. </p>
+            <p class="- topic/p "><u class="+ topic/ph hi-d/u "><b class="+ topic/ph hi-d/b ">Steps</b></u></p>
+        </prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <b class="+ topic/ph hi-d/b ">"+" Create</b> button on the web version's left side.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">
+                        <fig class="- topic/fig " id="unique_2_Connect_42_fig_ggz_btt_ydc" nd:nd-id="fig_ggz_btt_ydc"><image class="- topic/image " dita-ot:image-width="616" dita-ot:image-height="411" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture1.png" id="unique_2_Connect_42_image_igz_btt_ydc" nd:nd-id="image_igz_btt_ydc" placement="inline"/></fig>
+                    </p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">"Event"</b> from the drop-down menu.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="536" dita-ot:image-height="495" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture2.png" id="unique_2_Connect_42_image_shr_ntt_ydc" nd:nd-id="image_shr_ntt_ydc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the event details, such as the name of the event, the location of the
+                    event, and the start and end date/time.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="378" dita-ot:image-height="421" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture3.png" id="unique_2_Connect_42_image_oxg_rvt_ydc" nd:nd-id="image_oxg_rvt_ydc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save </b>to save the event.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="306" dita-ot:image-height="200" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture4.png" id="unique_2_Connect_42_image_d51_dwt_ydc" nd:nd-id="image_d51_dwt_ydc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check the calendar to confirm the event appears on the correct date and
+                    time.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="406" dita-ot:image-height="318" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture5.png" id="unique_2_Connect_42_image_h52_jwt_ydc" nd:nd-id="image_h52_jwt_ydc" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_dvn_mwt_ydc" nd:nd-id="result_dvn_mwt_ydc">
+            <p class="- topic/p ">The event will be displayed on the calendar for the set time and date.</p>
+        </result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e38" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set Up Recurring Event</ph></title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="what_is_a_reccuring_event" oid="what_is_a_reccuring_event" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a reccuring event?</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section provides information about what a recurring event is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">recurring event</b> is an event that repeats at regular intervals over time,
+            eliminating the need to create separate entries for each occurrence manually. Recurring
+            events are commonly used for activities or commitments that follow a predictable
+            schedule, such as weekly meetings, monthly appointments, or daily reminders. The
+            calendar allows you to set the frequency of repetition, including:</p>
+        <ul class="- topic/ul " id="unique_3_Connect_42_ul_c5l_n2w_zdc" nd:nd-id="ul_c5l_n2w_zdc">
+            <li class="- topic/li ">Daily: The event repeats every day.</li>
+            <li class="- topic/li ">Weekly: The event occurs on the same day(s) each week.</li>
+            <li class="- topic/li ">Monthly: The event repeats on a specific date or day of the month.</li>
+            <li class="- topic/li ">Yearly: The event occurs annually on the same date.</li>
+            <li class="- topic/li ">Custom: Users can define specific intervals (e.g., every 2 weeks or every 3
+                months).</li>
+        </ul>
+        <p class="- topic/p ">You can set an end date for the recurring series (e.g., "Repeat until December 31, 2024")
+            or choose to repeat indefinitely.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_set_up_a_recurring_event" oid="how_to_set_up_a_recurring_event" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Set Up a Recurring Event</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here are the instructions on how to set up a recurring event in the calendar
+        application.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_opp_ctv_zdc" nd:nd-id="prereq_opp_ctv_zdc">
+            <p class="- topic/p ">To successfully set up a recurring event, you must know what a recurring event is. </p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b "><u class="+ topic/ph hi-d/u ">Steps</u></b></p>
+        </prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Create or open the event you want to set up as a recurring event.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the "<b class="+ topic/ph hi-d/b ">Does not repeat"</b> drop-down menu under the date and time
+                    section.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="497" dita-ot:image-height="360" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture6.png" id="unique_4_Connect_42_image_e3b_xtv_zdc" nd:nd-id="image_e3b_xtv_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select a predefined recurrence pattern (e.g., <b class="+ topic/ph hi-d/b ">daily, weekly, monthly,
+                        annual</b>) or choose "<b class="+ topic/ph hi-d/b ">Custom</b>" to create a custom recurrence.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Set specific days, intervals (e.g., every 2 weeks), and the end date for the
+                    series.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="602" dita-ot:image-height="191" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture7.png" id="unique_4_Connect_42_image_y5k_k5v_zdc" nd:nd-id="image_y5k_k5v_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save </b>to save the event.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="319" dita-ot:image-height="153" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture8.png" id="unique_4_Connect_42_image_rwh_s5v_zdc" nd:nd-id="image_rwh_s5v_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check the calendar to ensure the event appears correctly for all intended
+                    dates.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="340" dita-ot:image-height="322" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture9.png" id="unique_4_Connect_42_image_xcq_fvv_zdc" nd:nd-id="image_xcq_fvv_zdc" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_dwm_3vv_zdc" nd:nd-id="result_dwm_3vv_zdc">
+            <p class="- topic/p ">The recurring event will be displayed on the calendar for the selected date(s) and
+                time.</p>
+        </result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e62" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Change Calendar View</ph></title><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="what_is_the_calendar_view" oid="what_is_the_calendar_view" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is the calendar view?</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section provides information about what a calendar view is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">calendar view</b> refers to how events and schedules are visually displayed. It
+            allows you to choose the format and scope of time you want to focus on, helping you
+            organize and manage your schedule effectively. Below is a list of the different calendar
+            views and their descriptions.</p>
+        <ul class="- topic/ul " id="unique_5_Connect_42_ul_ft4_t2w_zdc" nd:nd-id="ul_ft4_t2w_zdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Day</b>: Displays events for a single day.</li>
+        </ul>
+        <ul class="- topic/ul " id="unique_5_Connect_42_ul_gt4_t2w_zdc" nd:nd-id="ul_gt4_t2w_zdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Week</b>: Shows all events for the current week.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Month</b>: Displays events in a monthly grid.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Year</b>: Provides an overview of the entire year.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Schedule</b>: Lists events in a chronological sequence.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Custom (e.g., 4 days)</b>: If enabled, displays a custom range of days.</li>
+        </ul>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_change_the_calendar_view" oid="how_to_change_the_calendar_view" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Change the Calendar View</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here are the instructions on how to change the calendar view in the calendar
+        application.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_rgp_1yv_zdc" nd:nd-id="prereq_rgp_1yv_zdc">
+            <p class="- topic/p ">To successfully change the calendar view, you must know what different calendar views
+                mean.</p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b "><u class="+ topic/ph hi-d/u ">Steps</u></b></p>
+        </prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Google Calendar app, click the View Selector button in the top-right
+                    corner.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="413" dita-ot:image-height="153" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture10.png" id="unique_6_Connect_42_image_ewb_ryv_zdc" nd:nd-id="image_ewb_ryv_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the view you want (e.g., day, week, month) from the drop-down menu.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="383" dita-ot:image-height="393" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture11.png" id="unique_6_Connect_42_image_or3_vyv_zdc" nd:nd-id="image_or3_vyv_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">The calendar will refresh to display the selected view.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_qvz_1zv_zdc" nd:nd-id="result_qvz_1zv_zdc">
+            <p class="- topic/p ">The calendar will display the selected view.</p>
+        </result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d105e86" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set Reminder Notification</ph></title><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="what_is_a_reminder_notification" oid="what_is_a_reminder_notification" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is a reminder notification?</ph></title>
+    <shortdesc class="- topic/shortdesc ">This section provides information about what a reminder notification is.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">reminder notification</b> is an alert designed to notify you of an upcoming event or
+            task. It helps ensure you don't forget important commitments by providing timely prompts
+            based on your preferences. Some key features of reminder notifications include:</p>
+        <ul class="- topic/ul " id="unique_7_Connect_42_ul_c2b_1fw_zdc" nd:nd-id="ul_c2b_1fw_zdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Pop-up Notifications</b>: Appear as a message on your device screen.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Email Notifications</b>: Sent to your associated email address.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Mobile App Alerts</b>: Delivered via the Google Calendar app on your phone or
+                tablet.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Timing Options</b>: Notifications can be set to alert you at specific times
+                before an event (e.g., 10 minutes, 1 hour, or 1 day in advance). Multiple reminders
+                can be configured for a single event (e.g., one at 1 hour before and another 10
+                minutes before).</li>
+        </ul>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_set_a_reminder_notification" oid="how_to_set_a_reminder_notification" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Set a Reminder Notification</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here are the instructions on how to set a reminder notification in the calendar
+        application.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_hxn_11w_zdc" nd:nd-id="prereq_hxn_11w_zdc">
+            <p class="- topic/p ">To successfully set a reminder notification, you must know what a reminder
+                notification is. </p>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b "><u class="+ topic/ph hi-d/u ">Steps</u></b></p>
+        </prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Create a new event or open an existing event for which you want to set up a
+                    reminder notification. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the event details panel, look for the "<b class="+ topic/ph hi-d/b ">Notification</b>" section.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="348" dita-ot:image-height="354" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture12.png" id="unique_8_Connect_42_image_vkm_51w_zdc" nd:nd-id="image_vkm_51w_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the drop-down menu and select the type of notification you want to
+                    use.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="326" dita-ot:image-height="364" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture13.png" id="unique_8_Connect_42_image_xjx_x1w_zdc" nd:nd-id="image_xjx_x1w_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the timing for the notification (e.g., 10 minutes, 1 hour, or 1 day
+                    before the event).</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="462" dita-ot:image-height="209" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture14.png" id="unique_8_Connect_42_image_ahh_bbw_zdc" nd:nd-id="image_ahh_bbw_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To add multiple reminders, click the "<b class="+ topic/ph hi-d/b ">Add notification</b>" button.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="387" dita-ot:image-height="193" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture15.png" id="unique_8_Connect_42_image_ll4_jbw_zdc" nd:nd-id="image_ll4_jbw_zdc" placement="inline"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Save </b>to apply the changes.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p "><image class="- topic/image " dita-ot:image-width="497" dita-ot:image-height="238" href="file:/C:/Users/tishk/Dropbox/PC%20(3)/Desktop/SAMPLES/Images/Picture16.png" id="unique_8_Connect_42_image_s3d_4bw_zdc" nd:nd-id="image_s3d_4bw_zdc" placement="inline"/></p>
+                </info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_ll5_rbw_zdc" nd:nd-id="result_ll5_rbw_zdc">
+            <p class="- topic/p ">The reminder notification will be sent at the chosen time using the selected
+                notification type.</p>
+        </result>
+    </taskbody>
+</task></topic></map>

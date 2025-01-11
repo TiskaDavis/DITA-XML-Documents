@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_reminder_notification">
+    <title>What is a reminder notification?</title>
+    <shortdesc>This section provides information about what a reminder notification is.</shortdesc>
+    <conbody>
+        <p>A <b>reminder notification</b> is an alert designed to notify you of an upcoming event or
+            task. It helps ensure you don't forget important commitments by providing timely prompts
+            based on your preferences. Some key features of reminder notifications include:</p>
+        <ul id="ul_c2b_1fw_zdc">
+            <li><b>Pop-up Notifications</b>: Appear as a message on your device screen.</li>
+            <li><b>Email Notifications</b>: Sent to your associated email address.</li>
+            <li><b>Mobile App Alerts</b>: Delivered via the Google Calendar app on your phone or
+                tablet.</li>
+            <li><b>Timing Options</b>: Notifications can be set to alert you at specific times
+                before an event (e.g., 10 minutes, 1 hour, or 1 day in advance). Multiple reminders
+                can be configured for a single event (e.g., one at 1 hour before and another 10
+                minutes before).</li>
+        </ul>
+    </conbody>
+</concept>

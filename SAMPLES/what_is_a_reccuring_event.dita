@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_reccuring_event">
+    <title>What is a reccuring event?</title>
+    <shortdesc>This section provides information about what a recurring event is.</shortdesc>
+    <conbody>
+        <p>A <b>recurring event</b> is an event that repeats at regular intervals over time,
+            eliminating the need to create separate entries for each occurrence manually. Recurring
+            events are commonly used for activities or commitments that follow a predictable
+            schedule, such as weekly meetings, monthly appointments, or daily reminders. The
+            calendar allows you to set the frequency of repetition, including:</p>
+        <ul id="ul_c5l_n2w_zdc">
+            <li>Daily: The event repeats every day.</li>
+            <li>Weekly: The event occurs on the same day(s) each week.</li>
+            <li>Monthly: The event repeats on a specific date or day of the month.</li>
+            <li>Yearly: The event occurs annually on the same date.</li>
+            <li>Custom: Users can define specific intervals (e.g., every 2 weeks or every 3
+                months).</li>
+        </ul>
+        <p>You can set an end date for the recurring series (e.g., "Repeat until December 31, 2024")
+            or choose to repeat indefinitely.</p>
+    </conbody>
+</concept>

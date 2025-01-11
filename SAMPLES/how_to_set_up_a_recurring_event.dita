@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_set_up_a_recurring_event">
+    <title>How to Set Up a Recurring Event</title>
+    <shortdesc>Here are the instructions on how to set up a recurring event in the calendar
+        application.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_opp_ctv_zdc">
+            <p>To successfully set up a recurring event, you must know what a recurring event is. </p>
+            <p><b><u>Steps</u></b></p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Create or open the event you want to set up as a recurring event.</cmd>
+            </step>
+            <step>
+                <cmd>Click the "<b>Does not repeat"</b> drop-down menu under the date and time
+                    section.</cmd>
+                <info>
+                    <p><image href="Images/Picture6.png" id="image_e3b_xtv_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Select a predefined recurrence pattern (e.g., <b>daily, weekly, monthly,
+                        annual</b>) or choose "<b>Custom</b>" to create a custom recurrence.</cmd>
+            </step>
+            <step>
+                <cmd>Set specific days, intervals (e.g., every 2 weeks), and the end date for the
+                    series.</cmd>
+                <info>
+                    <p><image href="Images/Picture7.png" id="image_y5k_k5v_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <b>Save </b>to save the event.</cmd>
+                <info>
+                    <p><image href="Images/Picture8.png" id="image_rwh_s5v_zdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Check the calendar to ensure the event appears correctly for all intended
+                    dates.</cmd>
+                <info>
+                    <p><image href="Images/Picture9.png" id="image_xcq_fvv_zdc"/></p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_dwm_3vv_zdc">
+            <p>The recurring event will be displayed on the calendar for the selected date(s) and
+                time.</p>
+        </result>
+    </taskbody>
+</task>
