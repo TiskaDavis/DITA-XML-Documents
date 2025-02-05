@@ -14,6 +14,11 @@ You can preview the HTML5 version of the documents online by clicking the link b
 
 [Preview the HTML5 Website](https://htmlpreview.github.io/?https://github.com/TiskaDavis/DITA-XML-Documents/blob/main/html5/index.html)
 
+## View and Download the PDF File
+
+You can view a PDF version of the document by clicking the link below:
+[View the User Guide for the Calendar Application PDF](https://github.com/TiskaDavis/DITA-XML-Documents/blob/main/user_guide_for_the_calendar_application.pdf)
+
 ## File Structure
 
 /root ├── /html5 │ ├── index.html │ └── [other HTML files] ├── /pdf │ └── sample_document.pdf └── /xml ├── topic1.dita ├── topic2.dita └── [other DITA XML files]
